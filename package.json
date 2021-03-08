@@ -57,7 +57,7 @@
     "pause": "0.1.0",
     "send": "^0.17.1",
     "terraform": "^1.9.0",
-    "watchify": "^3.11.1"
+    "watchify": "^4.0.0"
   },
   "devDependencies": {
     "cheerio": "^0.22.0",
